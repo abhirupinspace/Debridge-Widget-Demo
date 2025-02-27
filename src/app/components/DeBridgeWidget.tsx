@@ -18,10 +18,10 @@ const DeBridgeWidget = () => {
         window.deBridge.widget({
           v: "1",
           element: "debridgeWidget",
-          title: "Abhirup's Bridge",
+          title: "ABHIRUP'S BRIDGE",
           description: "",
           width: "600",
-          height: "800",
+          height: "600",
           r: null,
           supportedChains: {
             inputChains: {
@@ -85,7 +85,7 @@ const DeBridgeWidget = () => {
           mode: "deswap",
           isEnableCalldata: false,
           styles: "e30=",
-          theme: "dark",
+          theme: "light",
           isHideLogo: false,
           logo: "",
           disabledWallets: [],
